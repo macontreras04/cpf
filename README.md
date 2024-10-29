@@ -1,0 +1,1 @@
+prepayment_modeling.ipynb: The main Jupyter Notebook with the full analysis, model development, and visualization code. This notebook walks through the entire modeling process, from data preparation to final model fitting and interpretation.
