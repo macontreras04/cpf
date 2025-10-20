@@ -1,0 +1,501 @@
+timestamp,symbol,user,followers,text,sentiment,likes,retweets,date,week
+2025-03-09,NVDA,user_14,12560,rebound buy beat,0.078,7,3,2025-03-09,2025-03-03
+2025-06-21,TSLA,user_59,19281,AI downgrade revenue AI AI cloud,-0.141,3,2,2025-06-21,2025-06-16
+2025-05-12,NVDA,user_94,18394,AI miss sell holding revenue,0.135,7,4,2025-05-12,2025-05-12
+2025-04-18,GOOGL,user_53,1523,chip rebound sell dividend crash cloud sell,-0.118,7,1,2025-04-18,2025-04-14
+2025-01-29,NVDA,user_27,4938,AI beat growth crash buy,0.067,1,4,2025-01-29,2025-01-27
+2025-01-29,MSFT,user_47,5029,sell revenue chip,0.527,5,0,2025-01-29,2025-01-27
+2025-01-11,AMZN,user_80,1262,upgrade beat dividend,-0.403,4,3,2025-01-11,2025-01-06
+2025-06-05,AMZN,user_6,9051,miss upgrade upgrade,0.456,3,3,2025-06-05,2025-06-02
+2025-04-19,AAPL,user_55,13298,AI buy sell,0.527,3,2,2025-04-19,2025-04-14
+2025-05-08,AAPL,user_97,469,holding chip buy,-0.047,12,3,2025-05-08,2025-05-05
+2025-01-04,NVDA,user_44,15658,revenue growth miss downgrade buy beat chip,-0.849,5,1,2025-01-04,2024-12-30
+2025-06-24,SPG,user_18,3709,miss holding beat growth beat beat beat,-0.243,10,4,2025-06-24,2025-06-23
+2025-05-30,SPG,user_16,5333,dividend holding buy beat,0.519,6,3,2025-05-30,2025-05-26
+2025-02-08,AMZN,user_12,10765,cloud buy holding,-0.009,1,0,2025-02-08,2025-02-03
+2025-02-02,MSFT,user_20,16215,AI earnings cloud buy buy crash revenue,-0.4,6,2,2025-02-02,2025-01-27
+2025-02-03,TSLA,user_45,1390,downgrade chip crash growth,-0.202,2,1,2025-02-03,2025-02-03
+2025-02-24,MSFT,user_64,14855,dividend sell miss miss,0.336,4,0,2025-02-24,2025-02-24
+2025-04-05,MSFT,user_59,10634,upgrade sell downgrade buy miss,0.219,5,3,2025-04-05,2025-03-31
+2025-03-19,NVDA,user_93,14830,beat cloud cloud upgrade rebound buy,-0.096,8,1,2025-03-19,2025-03-17
+2025-02-22,NVDA,user_94,5187,beat cloud sell upgrade holding growth miss,-0.147,4,1,2025-02-22,2025-02-17
+2025-04-21,GOOGL,user_90,17795,sell miss sell sell sell cloud,-0.157,2,1,2025-04-21,2025-04-21
+2025-01-26,MSFT,user_22,641,holding chip sell earnings rebound,-0.369,1,4,2025-01-26,2025-01-20
+2025-02-22,SPG,user_97,576,crash chip downgrade,0.646,8,3,2025-02-22,2025-02-17
+2025-03-07,SPG,user_47,7905,holding buy beat AI,-0.129,8,0,2025-03-07,2025-03-03
+2025-03-24,MSFT,user_29,10745,dividend crash buy dividend buy downgrade,0.487,4,1,2025-03-24,2025-03-24
+2025-05-22,NVDA,user_86,1342,crash beat sell miss beat sell,0.609,1,4,2025-05-22,2025-05-19
+2025-02-05,NVDA,user_45,18088,cloud upgrade upgrade revenue upgrade holding chip,0.399,9,2,2025-02-05,2025-02-03
+2025-04-03,GOOGL,user_77,16621,growth growth revenue,-0.173,4,1,2025-04-03,2025-03-31
+2025-04-17,GOOGL,user_9,19192,miss revenue crash earnings crash,0.161,2,2,2025-04-17,2025-04-14
+2025-01-09,AAPL,user_24,8675,crash rebound holding revenue holding upgrade,-0.01,4,1,2025-01-09,2025-01-06
+2025-04-20,AMZN,user_15,6481,revenue sell AI dividend holding holding beat,-0.361,3,3,2025-04-20,2025-04-14
+2025-01-31,MSFT,user_36,15976,sell downgrade dividend AI miss beat miss,0.13,8,3,2025-01-31,2025-01-27
+2025-01-12,SPG,user_13,11754,beat rebound downgrade,-0.472,9,6,2025-01-12,2025-01-06
+2025-06-20,MSFT,user_91,487,cloud sell buy cloud,0.475,4,1,2025-06-20,2025-06-16
+2025-06-23,GOOGL,user_44,10830,AI upgrade rebound dividend,-0.186,4,3,2025-06-23,2025-06-23
+2025-05-26,GOOGL,user_71,17266,chip rebound miss,0.08,5,1,2025-05-26,2025-05-26
+2025-02-24,AAPL,user_72,9038,chip revenue AI buy dividend,0.113,154,4,2025-02-24,2025-02-24
+2025-01-18,AMZN,user_78,9003,buy crash buy holding AI earnings,-0.104,8,2,2025-01-18,2025-01-13
+2025-05-04,AAPL,user_76,5844,downgrade growth cloud crash,0.235,6,3,2025-05-04,2025-04-28
+2025-03-21,SPG,user_36,3624,AI dividend cloud upgrade,-0.19,2,1,2025-03-21,2025-03-17
+2025-01-22,AMZN,user_61,16351,growth holding chip growth cloud,0.349,8,2,2025-01-22,2025-01-20
+2025-03-31,TSLA,user_81,734,chip downgrade AI sell dividend,-0.538,7,2,2025-03-31,2025-03-31
+2025-01-07,MSFT,user_40,4283,holding chip revenue rebound growth,0.051,6,2,2025-01-07,2025-01-06
+2025-06-13,AAPL,user_93,17011,downgrade dividend growth rebound buy growth miss,0.776,5,1,2025-06-13,2025-06-09
+2025-02-16,GOOGL,user_27,13047,cloud downgrade rebound buy,-0.4,3,4,2025-02-16,2025-02-10
+2025-04-30,AAPL,user_1,8057,earnings rebound earnings dividend holding rebound AI,-0.271,5,1,2025-04-30,2025-04-28
+2025-02-26,TSLA,user_34,16661,chip earnings chip miss,0.206,3,1,2025-02-26,2025-02-24
+2025-04-04,AAPL,user_68,2378,chip crash crash buy,0.072,3,2,2025-04-04,2025-03-31
+2025-04-09,MSFT,user_88,19165,holding dividend rebound beat miss earnings,0.14,7,2,2025-04-09,2025-04-07
+2025-02-03,TSLA,user_21,9069,revenue sell upgrade crash,0.196,4,5,2025-02-03,2025-02-03
+2025-06-24,GOOGL,user_33,16864,AI miss beat rebound buy,0.254,4,0,2025-06-24,2025-06-23
+2025-05-20,GOOGL,user_7,9305,miss beat miss miss growth revenue earnings,0.444,6,0,2025-05-20,2025-05-19
+2025-06-19,NVDA,user_65,18143,cloud cloud cloud chip crash,0.164,6,2,2025-06-19,2025-06-16
+2025-06-11,TSLA,user_3,5832,growth holding holding,-0.097,3,1,2025-06-11,2025-06-09
+2025-04-18,NVDA,user_51,1284,earnings crash chip miss sell earnings downgrade,0.269,4,4,2025-04-18,2025-04-14
+2025-06-15,NVDA,user_79,5255,earnings chip miss miss buy,0.76,6,4,2025-06-15,2025-06-09
+2025-01-16,MSFT,user_95,1470,cloud rebound sell chip upgrade,-0.053,6,2,2025-01-16,2025-01-13
+2025-02-05,AAPL,user_54,17202,holding AI downgrade beat,-0.39,6,1,2025-02-05,2025-02-03
+2025-01-09,GOOGL,user_80,9646,miss earnings holding earnings,0.443,6,1,2025-01-09,2025-01-06
+2025-02-28,GOOGL,user_74,19538,earnings buy downgrade,-0.048,3,4,2025-02-28,2025-02-24
+2025-03-11,AAPL,user_93,4405,dividend cloud revenue,-0.869,5,1,2025-03-11,2025-03-10
+2025-02-18,GOOGL,user_59,19739,cloud upgrade chip earnings AI upgrade holding,0.339,2,8,2025-02-18,2025-02-17
+2025-05-30,AAPL,user_6,17972,miss sell crash,-0.214,5,0,2025-05-30,2025-05-26
+2025-03-06,TSLA,user_29,17765,beat growth dividend downgrade,-0.036,3,1,2025-03-06,2025-03-03
+2025-02-20,MSFT,user_17,8311,AI crash sell earnings,0.133,3,3,2025-02-20,2025-02-17
+2025-04-08,MSFT,user_60,13815,chip beat rebound,0.076,5,1,2025-04-08,2025-04-07
+2025-01-26,SPG,user_22,5994,rebound upgrade chip,0.284,11,3,2025-01-26,2025-01-20
+2025-05-25,MSFT,user_24,7176,cloud chip buy beat cloud,-0.174,7,2,2025-05-25,2025-05-19
+2025-01-14,AAPL,user_81,16914,downgrade sell cloud beat crash upgrade,0.205,7,2,2025-01-14,2025-01-13
+2025-06-27,SPG,user_85,5313,sell downgrade holding,-0.104,4,1,2025-06-27,2025-06-23
+2025-05-20,AAPL,user_51,15350,buy crash revenue miss downgrade,0.296,1,2,2025-05-20,2025-05-19
+2025-02-05,AMZN,user_50,2843,crash upgrade rebound beat cloud downgrade cloud,0.246,4,0,2025-02-05,2025-02-03
+2025-01-01,SPG,user_11,2942,beat beat beat holding upgrade,-0.374,5,1,2025-01-01,2024-12-30
+2025-05-27,GOOGL,user_56,1248,cloud earnings rebound AI,0.434,4,0,2025-05-27,2025-05-26
+2025-05-08,GOOGL,user_71,18806,rebound sell crash crash,-0.214,4,5,2025-05-08,2025-05-05
+2025-05-12,AMZN,user_42,18326,AI miss buy growth chip,0.323,7,4,2025-05-12,2025-05-12
+2025-05-19,AMZN,user_39,1933,rebound buy buy,0.147,6,3,2025-05-19,2025-05-19
+2025-01-14,MSFT,user_69,847,cloud beat crash crash,0.735,8,1,2025-01-14,2025-01-13
+2025-03-06,AMZN,user_48,8259,growth holding miss miss holding,-0.089,4,2,2025-03-06,2025-03-03
+2025-01-21,AAPL,user_57,8285,crash dividend revenue earnings chip,-0.14,3,1,2025-01-21,2025-01-20
+2025-06-05,NVDA,user_21,16588,buy earnings cloud growth upgrade earnings AI,-0.008,0,4,2025-06-05,2025-06-02
+2025-04-23,AAPL,user_82,15307,buy AI beat,-0.121,4,1,2025-04-23,2025-04-21
+2025-03-01,SPG,user_99,8100,growth buy cloud earnings miss,0.32,1,0,2025-03-01,2025-02-24
+2025-01-12,AMZN,user_20,5997,dividend beat upgrade dividend,-0.647,4,3,2025-01-12,2025-01-06
+2025-02-25,GOOGL,user_15,9667,miss miss AI,-0.421,3,1,2025-02-25,2025-02-24
+2025-02-28,AAPL,user_69,1942,AI crash earnings crash chip AI,-0.427,5,3,2025-02-28,2025-02-24
+2025-05-12,GOOGL,user_77,3474,AI chip earnings downgrade AI sell upgrade,0.38,6,0,2025-05-12,2025-05-12
+2025-04-25,AAPL,user_51,9500,holding earnings earnings dividend upgrade,0.684,6,2,2025-04-25,2025-04-21
+2025-06-09,GOOGL,user_76,13468,beat earnings upgrade cloud dividend,-0.042,4,2,2025-06-09,2025-06-09
+2025-03-26,TSLA,user_62,2065,cloud upgrade downgrade dividend,-0.068,4,1,2025-03-26,2025-03-24
+2025-01-22,AAPL,user_85,4883,crash cloud sell rebound buy chip crash,0.028,5,3,2025-01-22,2025-01-20
+2025-05-09,SPG,user_37,9944,upgrade downgrade downgrade earnings revenue earnings,0.465,1,3,2025-05-09,2025-05-05
+2025-05-17,GOOGL,user_6,15992,crash beat crash chip dividend buy downgrade,-0.371,9,1,2025-05-17,2025-05-12
+2025-04-12,NVDA,user_71,9115,rebound miss holding AI,0.095,7,1,2025-04-12,2025-04-07
+2025-05-19,SPG,user_26,615,miss upgrade growth,0.39,5,3,2025-05-19,2025-05-19
+2025-03-30,MSFT,user_8,7462,cloud beat beat,0.2,4,1,2025-03-30,2025-03-24
+2025-04-05,AAPL,user_73,18452,cloud earnings miss growth,0.076,5,0,2025-04-05,2025-03-31
+2025-03-18,NVDA,user_91,10127,buy chip miss,0.4,132,1,2025-03-18,2025-03-17
+2025-01-05,MSFT,user_4,10365,crash chip beat chip rebound,-1.0,1,3,2025-01-05,2024-12-30
+2025-01-20,AAPL,user_21,12884,rebound dividend earnings rebound beat dividend rebound,0.271,3,4,2025-01-20,2025-01-20
+2025-01-06,NVDA,user_31,2364,chip earnings rebound dividend upgrade,-0.262,7,2,2025-01-06,2025-01-06
+2025-04-25,NVDA,user_21,4462,growth sell upgrade sell,-0.732,6,0,2025-04-25,2025-04-21
+2025-02-26,SPG,user_25,3933,buy revenue upgrade upgrade downgrade,0.204,10,2,2025-02-26,2025-02-24
+2025-04-02,TSLA,user_15,11434,holding miss crash rebound growth,0.549,4,1,2025-04-02,2025-03-31
+2025-06-13,NVDA,user_35,10101,miss beat crash buy buy AI,-0.055,5,3,2025-06-13,2025-06-09
+2025-02-14,TSLA,user_49,8266,miss dividend downgrade sell beat,0.381,6,2,2025-02-14,2025-02-10
+2025-03-15,AMZN,user_43,11745,growth buy earnings,0.645,6,2,2025-03-15,2025-03-10
+2025-05-16,SPG,user_41,7952,buy earnings miss,0.526,8,2,2025-05-16,2025-05-12
+2025-02-11,GOOGL,user_37,13237,chip AI crash buy growth buy,0.656,4,0,2025-02-11,2025-02-10
+2025-01-14,SPG,user_57,17623,cloud growth holding upgrade crash holding cloud,0.297,3,3,2025-01-14,2025-01-13
+2025-02-22,MSFT,user_42,12338,buy AI AI cloud revenue crash holding,0.03,3,2,2025-02-22,2025-02-17
+2025-01-30,GOOGL,user_47,14260,buy cloud holding chip,-0.641,9,0,2025-01-30,2025-01-27
+2025-06-17,GOOGL,user_92,6934,sell miss downgrade buy,-0.098,7,2,2025-06-17,2025-06-16
+2025-05-26,TSLA,user_61,19591,cloud miss holding chip,-0.337,2,2,2025-05-26,2025-05-26
+2025-04-25,GOOGL,user_14,10609,buy crash AI growth growth holding,0.868,2,2,2025-04-25,2025-04-21
+2025-06-06,NVDA,user_68,18175,dividend holding cloud sell,-0.07,4,2,2025-06-06,2025-06-02
+2025-05-25,TSLA,user_53,3738,buy growth growth downgrade revenue sell,0.049,6,3,2025-05-25,2025-05-19
+2025-02-03,GOOGL,user_84,14164,crash buy rebound growth holding crash growth,0.221,9,1,2025-02-03,2025-02-03
+2025-06-10,TSLA,user_34,5419,chip AI crash miss rebound,0.017,11,2,2025-06-10,2025-06-09
+2025-04-08,AMZN,user_76,11988,holding holding buy downgrade chip crash sell,0.678,4,2,2025-04-08,2025-04-07
+2025-05-26,TSLA,user_97,4073,revenue crash cloud revenue crash,-0.249,7,3,2025-05-26,2025-05-26
+2025-06-11,AAPL,user_24,16032,revenue earnings earnings beat miss,0.078,7,2,2025-06-11,2025-06-09
+2025-02-27,NVDA,user_20,17150,cloud chip growth revenue sell growth dividend,-0.297,3,4,2025-02-27,2025-02-24
+2025-01-20,MSFT,user_69,4017,growth beat holding,-0.528,7,2,2025-01-20,2025-01-20
+2025-02-11,AAPL,user_30,7473,holding earnings AI downgrade sell sell buy,-0.245,5,1,2025-02-11,2025-02-10
+2025-03-18,AAPL,user_88,6500,earnings upgrade dividend chip sell holding growth,-0.015,2,1,2025-03-18,2025-03-17
+2025-05-28,AAPL,user_7,12263,earnings beat beat miss revenue cloud,-0.172,9,0,2025-05-28,2025-05-26
+2025-06-04,GOOGL,user_36,3265,sell beat downgrade,-0.277,6,2,2025-06-04,2025-06-02
+2025-01-02,TSLA,user_38,440,earnings dividend miss downgrade crash,-0.563,3,4,2025-01-02,2024-12-30
+2025-04-02,TSLA,user_80,19471,dividend cloud crash,-0.033,6,1,2025-04-02,2025-03-31
+2025-03-17,SPG,user_52,282,cloud growth revenue revenue buy,-0.602,3,0,2025-03-17,2025-03-17
+2025-02-09,GOOGL,user_15,19565,holding buy cloud rebound,0.304,2,2,2025-02-09,2025-02-03
+2025-01-22,NVDA,user_46,7684,AI rebound growth rebound,0.033,8,0,2025-01-22,2025-01-20
+2025-03-02,GOOGL,user_23,11548,cloud earnings dividend dividend AI,-0.583,4,0,2025-03-02,2025-02-24
+2025-06-19,GOOGL,user_12,10966,sell growth beat upgrade miss sell revenue,-0.124,5,3,2025-06-19,2025-06-16
+2025-02-28,GOOGL,user_93,283,dividend earnings rebound miss sell buy beat,-0.301,4,2,2025-02-28,2025-02-24
+2025-04-04,NVDA,user_44,1441,miss dividend downgrade,0.128,3,3,2025-04-04,2025-03-31
+2025-05-07,SPG,user_15,11134,dividend miss beat upgrade rebound chip miss,0.536,4,1,2025-05-07,2025-05-05
+2025-03-07,NVDA,user_93,9497,crash sell downgrade AI rebound,-0.75,3,1,2025-03-07,2025-03-03
+2025-06-24,AMZN,user_49,14234,growth dividend AI buy dividend beat downgrade,0.046,11,2,2025-06-24,2025-06-23
+2025-06-23,SPG,user_21,11932,cloud revenue sell downgrade,-0.064,6,4,2025-06-23,2025-06-23
+2025-02-15,AMZN,user_15,14888,buy holding beat earnings holding,0.269,5,3,2025-02-15,2025-02-10
+2025-03-31,AMZN,user_14,17323,AI beat upgrade crash,0.085,5,1,2025-03-31,2025-03-31
+2025-02-24,AMZN,user_42,7952,revenue earnings buy upgrade growth,-0.301,5,4,2025-02-24,2025-02-24
+2025-02-21,TSLA,user_80,12929,miss sell growth chip crash,-0.128,3,1,2025-02-21,2025-02-17
+2025-01-07,AAPL,user_15,17179,crash buy dividend earnings chip earnings holding,-0.318,6,3,2025-01-07,2025-01-06
+2025-04-20,AAPL,user_63,9961,earnings upgrade buy cloud upgrade,0.43,4,1,2025-04-20,2025-04-14
+2025-04-01,AMZN,user_68,477,upgrade sell rebound dividend sell beat rebound,0.009,5,1,2025-04-01,2025-03-31
+2025-01-10,AMZN,user_27,781,crash buy buy,0.76,3,2,2025-01-10,2025-01-06
+2025-02-20,MSFT,user_87,849,AI upgrade crash,-0.024,7,3,2025-02-20,2025-02-17
+2025-06-13,AAPL,user_93,7075,rebound growth holding holding,-0.283,3,1,2025-06-13,2025-06-09
+2025-02-13,MSFT,user_53,14531,beat downgrade downgrade holding,-0.605,6,3,2025-02-13,2025-02-10
+2025-01-27,SPG,user_52,7674,downgrade holding beat downgrade,-0.721,7,2,2025-01-27,2025-01-27
+2025-03-30,MSFT,user_63,15011,upgrade buy AI buy dividend,-0.634,1,2,2025-03-30,2025-03-24
+2025-06-27,GOOGL,user_73,18972,growth buy chip,0.107,6,2,2025-06-27,2025-06-23
+2025-02-13,TSLA,user_53,8282,cloud revenue crash holding crash chip,0.203,4,0,2025-02-13,2025-02-10
+2025-05-01,SPG,user_57,3417,buy growth beat miss revenue miss crash,-0.632,2,5,2025-05-01,2025-04-28
+2025-05-18,NVDA,user_52,13312,sell rebound downgrade,0.358,2,2,2025-05-18,2025-05-12
+2025-02-12,AAPL,user_43,5279,dividend rebound AI dividend chip,-0.193,5,2,2025-02-12,2025-02-10
+2025-05-12,AMZN,user_7,18849,revenue growth buy growth,0.059,5,0,2025-05-12,2025-05-12
+2025-03-08,SPG,user_42,13797,beat miss dividend growth,0.645,3,4,2025-03-08,2025-03-03
+2025-04-24,AMZN,user_4,19383,growth rebound holding revenue crash sell upgrade,0.359,5,1,2025-04-24,2025-04-21
+2025-04-25,NVDA,user_69,4311,sell chip cloud earnings growth holding sell,-0.107,11,1,2025-04-25,2025-04-21
+2025-04-07,SPG,user_5,3516,dividend growth buy cloud chip,-0.356,2,5,2025-04-07,2025-04-07
+2025-01-17,AAPL,user_75,13835,downgrade downgrade AI sell holding,-0.861,6,0,2025-01-17,2025-01-13
+2025-05-31,SPG,user_92,3138,upgrade crash dividend growth growth downgrade growth,-0.288,5,2,2025-05-31,2025-05-26
+2025-02-27,AMZN,user_80,13065,earnings AI miss,-0.084,3,1,2025-02-27,2025-02-24
+2025-02-03,AMZN,user_41,1165,AI sell buy,-0.395,4,3,2025-02-03,2025-02-03
+2025-01-08,GOOGL,user_94,4628,dividend downgrade cloud sell growth holding dividend,-0.053,10,2,2025-01-08,2025-01-06
+2025-04-17,MSFT,user_4,2640,cloud upgrade growth AI,0.031,116,5,2025-04-17,2025-04-14
+2025-05-02,SPG,user_2,7422,sell revenue revenue holding upgrade growth cloud,-0.09,8,3,2025-05-02,2025-04-28
+2025-01-03,AMZN,user_67,3623,AI cloud buy AI cloud beat,-0.26,3,2,2025-01-03,2024-12-30
+2025-04-03,TSLA,user_21,3028,rebound revenue crash downgrade chip rebound,0.067,5,2,2025-04-03,2025-03-31
+2025-02-10,AAPL,user_70,10689,cloud rebound chip growth,0.177,4,1,2025-02-10,2025-02-10
+2025-04-27,TSLA,user_43,9472,beat buy cloud buy holding AI,-0.436,11,0,2025-04-27,2025-04-21
+2025-02-01,NVDA,user_82,10908,earnings sell cloud beat,0.564,3,1,2025-02-01,2025-01-27
+2025-05-05,SPG,user_69,5025,revenue buy beat,-0.039,4,3,2025-05-05,2025-05-05
+2025-03-11,GOOGL,user_9,4975,chip buy rebound,0.008,3,1,2025-03-11,2025-03-10
+2025-06-18,AAPL,user_84,10836,downgrade upgrade dividend beat AI beat,0.283,3,1,2025-06-18,2025-06-16
+2025-01-25,GOOGL,user_28,19864,downgrade miss growth crash chip,0.093,8,0,2025-01-25,2025-01-20
+2025-03-03,MSFT,user_26,14766,cloud AI sell rebound growth,0.381,1,2,2025-03-03,2025-03-03
+2025-01-21,AMZN,user_82,2045,earnings upgrade crash earnings AI chip,0.115,5,3,2025-01-21,2025-01-20
+2025-06-16,AAPL,user_83,13894,holding AI cloud dividend upgrade sell rebound,-0.245,7,4,2025-06-16,2025-06-16
+2025-06-07,NVDA,user_3,3941,rebound buy dividend holding,0.145,3,2,2025-06-07,2025-06-02
+2025-02-16,SPG,user_73,15572,beat miss chip growth buy rebound holding,-0.457,7,3,2025-02-16,2025-02-10
+2025-04-29,MSFT,user_100,7195,dividend buy AI upgrade dividend holding,0.043,5,3,2025-04-29,2025-04-28
+2025-05-28,MSFT,user_95,8548,sell cloud buy crash,-0.013,7,2,2025-05-28,2025-05-26
+2025-04-10,GOOGL,user_49,9604,revenue holding miss AI crash,-0.083,5,3,2025-04-10,2025-04-07
+2025-04-06,MSFT,user_17,2152,chip rebound rebound earnings cloud beat sell,-0.051,7,0,2025-04-06,2025-03-31
+2025-02-13,AAPL,user_63,3080,rebound crash holding upgrade downgrade,-0.753,5,2,2025-02-13,2025-02-10
+2025-01-17,GOOGL,user_55,8574,rebound holding rebound sell downgrade dividend rebound,-0.219,4,2,2025-01-17,2025-01-13
+2025-06-11,MSFT,user_23,8157,beat upgrade upgrade,0.037,5,4,2025-06-11,2025-06-09
+2025-06-12,SPG,user_34,16676,crash downgrade chip miss,0.064,11,2,2025-06-12,2025-06-09
+2025-04-24,NVDA,user_69,18318,beat revenue dividend sell miss,-0.411,7,2,2025-04-24,2025-04-21
+2025-03-03,SPG,user_15,14985,downgrade revenue AI downgrade beat AI buy,0.506,6,2,2025-03-03,2025-03-03
+2025-03-04,TSLA,user_47,9674,crash AI revenue cloud,-0.346,3,2,2025-03-04,2025-03-03
+2025-05-11,AAPL,user_3,15873,holding dividend holding crash crash sell crash,0.388,0,1,2025-05-11,2025-05-05
+2025-06-11,NVDA,user_83,7913,AI AI buy miss crash,0.171,10,2,2025-06-11,2025-06-09
+2025-06-09,NVDA,user_28,3159,revenue crash downgrade buy upgrade,-0.258,5,3,2025-06-09,2025-06-09
+2025-05-21,GOOGL,user_3,18620,revenue rebound AI upgrade AI,0.71,5,1,2025-05-21,2025-05-19
+2025-04-26,AMZN,user_4,12532,beat dividend earnings,-0.477,3,3,2025-04-26,2025-04-21
+2025-01-16,GOOGL,user_88,1600,miss downgrade growth beat upgrade,0.368,4,3,2025-01-16,2025-01-13
+2025-01-30,AAPL,user_31,696,dividend rebound holding chip growth dividend dividend,0.4,2,1,2025-01-30,2025-01-27
+2025-06-11,AAPL,user_45,13457,beat cloud growth chip sell,-0.268,2,1,2025-06-11,2025-06-09
+2025-04-20,GOOGL,user_59,12750,sell cloud AI AI downgrade growth,0.557,7,4,2025-04-20,2025-04-14
+2025-01-02,AMZN,user_45,587,revenue AI cloud upgrade,-0.1,3,2,2025-01-02,2024-12-30
+2025-01-19,SPG,user_75,14216,rebound buy crash,0.115,1,1,2025-01-19,2025-01-13
+2025-04-30,GOOGL,user_37,6622,downgrade revenue crash AI,0.104,3,1,2025-04-30,2025-04-28
+2025-01-01,AAPL,user_65,284,revenue miss holding cloud growth,-0.054,7,0,2025-01-01,2024-12-30
+2025-01-29,AMZN,user_9,14117,rebound revenue sell chip,0.324,241,2,2025-01-29,2025-01-27
+2025-04-09,AAPL,user_17,9746,downgrade chip cloud beat AI miss,0.317,5,3,2025-04-09,2025-04-07
+2025-05-05,AMZN,user_65,14200,earnings revenue earnings sell earnings upgrade,-0.699,4,2,2025-05-05,2025-05-05
+2025-04-28,AMZN,user_3,17808,downgrade miss buy,0.522,5,1,2025-04-28,2025-04-28
+2025-02-10,GOOGL,user_26,1959,miss buy miss dividend,-0.665,5,1,2025-02-10,2025-02-10
+2025-05-09,GOOGL,user_53,12200,sell sell cloud revenue chip,0.413,3,4,2025-05-09,2025-05-05
+2025-02-12,GOOGL,user_31,130,downgrade earnings upgrade holding earnings AI downgrade,0.451,3,1,2025-02-12,2025-02-10
+2025-02-28,AMZN,user_26,2133,upgrade buy miss chip chip revenue holding,-0.436,6,1,2025-02-28,2025-02-24
+2025-05-15,AMZN,user_23,13428,dividend growth dividend sell cloud,-0.164,6,3,2025-05-15,2025-05-12
+2025-04-27,AAPL,user_30,15267,AI earnings buy holding,-0.442,4,1,2025-04-27,2025-04-21
+2025-06-02,NVDA,user_10,18124,rebound growth chip growth AI AI upgrade,-0.086,9,1,2025-06-02,2025-06-02
+2025-04-29,GOOGL,user_72,17190,revenue sell chip cloud earnings miss,-0.123,6,3,2025-04-29,2025-04-28
+2025-04-13,TSLA,user_89,2720,upgrade holding buy cloud downgrade,0.312,5,2,2025-04-13,2025-04-07
+2025-01-17,AAPL,user_64,3801,AI beat chip revenue beat upgrade,0.524,5,2,2025-01-17,2025-01-13
+2025-03-08,AAPL,user_22,11794,miss holding rebound beat holding upgrade,0.558,4,2,2025-03-08,2025-03-03
+2025-02-17,MSFT,user_15,5311,dividend downgrade miss,-0.225,10,2,2025-02-17,2025-02-17
+2025-02-13,GOOGL,user_56,14741,AI holding revenue buy,-0.084,6,3,2025-02-13,2025-02-10
+2025-06-25,SPG,user_74,6902,crash downgrade sell,-0.673,2,3,2025-06-25,2025-06-23
+2025-03-12,AAPL,user_20,1544,revenue upgrade crash downgrade cloud rebound,-0.322,4,5,2025-03-12,2025-03-10
+2025-06-10,MSFT,user_47,17335,AI beat crash,0.386,3,1,2025-06-10,2025-06-09
+2025-04-24,TSLA,user_87,722,cloud sell earnings growth holding,0.646,2,3,2025-04-24,2025-04-21
+2025-05-24,TSLA,user_53,8680,revenue downgrade beat crash downgrade dividend holding,-0.494,5,1,2025-05-24,2025-05-19
+2025-04-01,SPG,user_53,10318,cloud chip rebound cloud cloud growth,-0.237,6,0,2025-04-01,2025-03-31
+2025-04-14,GOOGL,user_1,494,cloud downgrade earnings,-0.011,5,2,2025-04-14,2025-04-14
+2025-03-30,AMZN,user_2,9207,rebound miss revenue rebound downgrade chip,0.112,10,3,2025-03-30,2025-03-24
+2025-02-05,MSFT,user_58,12032,beat sell crash crash upgrade revenue AI,-0.324,5,1,2025-02-05,2025-02-03
+2025-05-11,AMZN,user_19,8705,crash beat sell,0.17,5,4,2025-05-11,2025-05-05
+2025-02-20,TSLA,user_62,18632,cloud chip chip miss,-0.19,4,1,2025-02-20,2025-02-17
+2025-01-05,TSLA,user_78,2337,AI rebound buy downgrade miss,-0.006,4,0,2025-01-05,2024-12-30
+2025-04-27,NVDA,user_72,12007,crash upgrade miss,0.219,3,2,2025-04-27,2025-04-21
+2025-02-01,NVDA,user_12,4058,crash rebound buy downgrade rebound,0.003,6,0,2025-02-01,2025-01-27
+2025-06-19,SPG,user_26,11746,earnings buy dividend crash revenue sell,-0.175,4,4,2025-06-19,2025-06-16
+2025-06-21,NVDA,user_27,9154,buy sell buy buy rebound AI,-0.044,2,1,2025-06-21,2025-06-16
+2025-06-14,NVDA,user_29,546,AI earnings dividend,-0.035,9,2,2025-06-14,2025-06-09
+2025-03-08,SPG,user_15,1513,miss growth dividend cloud,-0.148,5,1,2025-03-08,2025-03-03
+2025-01-03,AAPL,user_46,12509,sell chip sell dividend,-0.104,9,1,2025-01-03,2024-12-30
+2025-06-17,NVDA,user_1,16927,buy crash upgrade AI holding upgrade,0.639,5,1,2025-06-17,2025-06-16
+2025-03-19,AAPL,user_60,17860,miss rebound growth,0.224,5,2,2025-03-19,2025-03-17
+2025-06-23,AAPL,user_92,9934,sell downgrade crash,-0.118,1,1,2025-06-23,2025-06-23
+2025-06-23,GOOGL,user_57,18227,downgrade cloud earnings cloud,0.279,5,2,2025-06-23,2025-06-23
+2025-06-03,AAPL,user_3,2773,chip growth upgrade earnings revenue,-0.134,8,3,2025-06-03,2025-06-02
+2025-02-23,AAPL,user_18,17092,miss dividend miss dividend chip holding,0.469,6,4,2025-02-23,2025-02-17
+2025-03-11,NVDA,user_52,4811,downgrade dividend cloud,0.148,2,2,2025-03-11,2025-03-10
+2025-06-03,AAPL,user_60,7680,sell miss downgrade growth downgrade,-0.043,5,2,2025-06-03,2025-06-02
+2025-02-27,AMZN,user_34,16425,rebound AI holding dividend holding growth cloud,0.179,5,3,2025-02-27,2025-02-24
+2025-01-31,SPG,user_96,8791,AI crash AI growth beat growth,-0.628,4,3,2025-01-31,2025-01-27
+2025-04-11,NVDA,user_93,4400,downgrade sell miss sell holding,-0.451,6,2,2025-04-11,2025-04-07
+2025-06-18,SPG,user_89,257,revenue crash rebound upgrade holding downgrade dividend,-0.478,5,3,2025-06-18,2025-06-16
+2025-05-06,MSFT,user_60,4240,holding AI AI miss chip,0.057,6,1,2025-05-06,2025-05-05
+2025-04-13,NVDA,user_26,1933,growth downgrade buy,0.693,5,4,2025-04-13,2025-04-07
+2025-01-18,AAPL,user_72,2936,chip dividend AI crash earnings beat earnings,0.893,4,0,2025-01-18,2025-01-13
+2025-04-21,AMZN,user_19,16911,downgrade cloud earnings downgrade crash sell,0.255,7,5,2025-04-21,2025-04-21
+2025-06-28,SPG,user_22,9003,holding revenue rebound,0.2,5,2,2025-06-28,2025-06-23
+2025-01-26,NVDA,user_93,8431,dividend beat sell revenue earnings sell,-0.72,7,1,2025-01-26,2025-01-20
+2025-04-04,AMZN,user_33,13845,earnings miss growth dividend,-0.217,6,1,2025-04-04,2025-03-31
+2025-06-07,SPG,user_38,17189,holding dividend miss AI downgrade,-0.315,4,1,2025-06-07,2025-06-02
+2025-05-14,MSFT,user_35,9688,AI sell crash beat chip,-0.248,8,2,2025-05-14,2025-05-12
+2025-05-06,TSLA,user_67,4981,holding dividend crash,-0.067,4,1,2025-05-06,2025-05-05
+2025-05-07,MSFT,user_83,9905,revenue cloud growth dividend downgrade cloud,-0.189,3,4,2025-05-07,2025-05-05
+2025-03-06,TSLA,user_10,5774,growth beat beat miss,-0.792,5,3,2025-03-06,2025-03-03
+2025-02-22,GOOGL,user_91,12470,rebound cloud miss downgrade AI chip cloud,0.299,10,0,2025-02-22,2025-02-17
+2025-05-26,TSLA,user_15,4110,earnings sell growth,-0.429,6,2,2025-05-26,2025-05-26
+2025-05-26,GOOGL,user_11,4815,upgrade rebound rebound,0.096,4,0,2025-05-26,2025-05-26
+2025-06-06,NVDA,user_90,6603,sell holding beat beat chip buy,0.83,3,0,2025-06-06,2025-06-02
+2025-06-14,GOOGL,user_24,7428,crash earnings AI growth chip chip,-0.368,3,2,2025-06-14,2025-06-09
+2025-04-03,AMZN,user_77,18123,dividend holding miss cloud revenue,-1.0,5,3,2025-04-03,2025-03-31
+2025-04-01,GOOGL,user_96,17750,AI dividend downgrade cloud,-0.114,2,2,2025-04-01,2025-03-31
+2025-05-24,AMZN,user_4,7180,buy beat earnings,0.44,6,2,2025-05-24,2025-05-19
+2025-04-27,SPG,user_13,3236,downgrade buy rebound revenue miss,0.783,2,1,2025-04-27,2025-04-21
+2025-05-07,SPG,user_73,5839,downgrade rebound upgrade beat chip beat,-0.492,5,0,2025-05-07,2025-05-05
+2025-05-24,TSLA,user_57,16172,beat buy buy crash downgrade crash,0.199,2,2,2025-05-24,2025-05-19
+2025-06-10,TSLA,user_98,17579,chip chip miss downgrade upgrade AI,-0.186,6,3,2025-06-10,2025-06-09
+2025-03-02,TSLA,user_37,7992,sell cloud sell rebound chip beat,-0.042,3,3,2025-03-02,2025-02-24
+2025-03-09,GOOGL,user_48,7598,dividend AI buy growth holding miss,1.0,5,3,2025-03-09,2025-03-03
+2025-01-17,TSLA,user_71,16994,beat upgrade beat buy buy holding cloud,-0.601,2,3,2025-01-17,2025-01-13
+2025-04-15,GOOGL,user_1,18346,dividend earnings beat sell crash upgrade,0.101,6,0,2025-04-15,2025-04-14
+2025-01-07,GOOGL,user_60,18298,cloud sell rebound sell AI,0.187,6,1,2025-01-07,2025-01-06
+2025-03-25,AAPL,user_12,346,growth chip crash,0.434,7,2,2025-03-25,2025-03-24
+2025-04-08,AAPL,user_21,2459,sell growth downgrade miss earnings,0.039,6,1,2025-04-08,2025-04-07
+2025-02-21,GOOGL,user_11,1511,earnings revenue sell dividend downgrade growth crash,0.123,6,4,2025-02-21,2025-02-17
+2025-04-17,SPG,user_44,2318,beat buy growth crash,-0.157,4,0,2025-04-17,2025-04-14
+2025-01-06,AMZN,user_58,17428,revenue miss beat chip miss chip sell,0.108,4,1,2025-01-06,2025-01-06
+2025-01-07,NVDA,user_44,6604,growth growth dividend,-0.137,7,4,2025-01-07,2025-01-06
+2025-05-29,MSFT,user_78,16441,dividend cloud sell sell buy,0.249,5,1,2025-05-29,2025-05-26
+2025-03-06,AAPL,user_98,18949,crash chip crash buy,-0.148,5,2,2025-03-06,2025-03-03
+2025-01-23,GOOGL,user_34,17851,upgrade crash rebound cloud earnings buy,0.151,8,4,2025-01-23,2025-01-20
+2025-04-05,MSFT,user_25,18750,holding chip revenue,-0.012,4,2,2025-04-05,2025-03-31
+2025-05-19,AAPL,user_4,7408,revenue beat rebound dividend cloud downgrade sell,0.45,2,3,2025-05-19,2025-05-19
+2025-02-08,NVDA,user_64,17721,revenue miss chip rebound,-0.021,3,1,2025-02-08,2025-02-03
+2025-04-23,AMZN,user_90,17552,rebound rebound revenue,-0.709,4,2,2025-04-23,2025-04-21
+2025-01-16,GOOGL,user_16,7687,rebound beat AI chip rebound upgrade earnings,0.505,6,1,2025-01-16,2025-01-13
+2025-01-10,NVDA,user_10,710,AI miss cloud earnings,-0.362,9,3,2025-01-10,2025-01-06
+2025-04-06,SPG,user_66,8957,miss sell sell AI rebound,-0.262,3,3,2025-04-06,2025-03-31
+2025-04-08,AAPL,user_35,6972,AI upgrade buy crash cloud,-0.238,5,1,2025-04-08,2025-04-07
+2025-04-25,GOOGL,user_83,12003,beat chip buy,0.55,3,3,2025-04-25,2025-04-21
+2025-05-11,MSFT,user_6,18963,dividend growth chip beat holding downgrade,-0.854,2,3,2025-05-11,2025-05-05
+2025-06-25,SPG,user_19,4020,rebound buy buy revenue buy holding downgrade,1.0,4,3,2025-06-25,2025-06-23
+2025-04-03,SPG,user_59,3457,upgrade holding crash cloud,0.422,9,2,2025-04-03,2025-03-31
+2025-02-28,TSLA,user_53,9096,sell cloud rebound holding,0.089,4,0,2025-02-28,2025-02-24
+2025-05-24,AMZN,user_8,14597,dividend crash revenue sell miss downgrade beat,-0.022,5,4,2025-05-24,2025-05-19
+2025-02-18,SPG,user_78,4810,dividend rebound downgrade beat sell revenue beat,0.114,8,1,2025-02-18,2025-02-17
+2025-03-21,AAPL,user_10,18331,earnings chip upgrade revenue growth miss,0.208,8,2,2025-03-21,2025-03-17
+2025-01-15,AMZN,user_67,13515,downgrade upgrade upgrade AI,0.258,5,2,2025-01-15,2025-01-13
+2025-01-05,GOOGL,user_38,4137,growth upgrade growth revenue chip beat downgrade,0.222,3,1,2025-01-05,2024-12-30
+2025-06-23,TSLA,user_29,7657,earnings upgrade holding,0.036,9,2,2025-06-23,2025-06-23
+2025-05-31,NVDA,user_15,4069,beat AI miss holding sell cloud,-0.079,2,6,2025-05-31,2025-05-26
+2025-05-06,AMZN,user_87,865,earnings revenue beat earnings cloud upgrade AI,-0.061,8,0,2025-05-06,2025-05-05
+2025-03-15,MSFT,user_23,12613,holding crash revenue dividend earnings cloud,-0.078,7,4,2025-03-15,2025-03-10
+2025-02-01,AAPL,user_82,13342,sell buy AI earnings,0.454,6,2,2025-02-01,2025-01-27
+2025-01-29,MSFT,user_46,16208,rebound cloud upgrade growth,0.237,9,1,2025-01-29,2025-01-27
+2025-02-15,AMZN,user_83,972,dividend growth AI chip growth chip,-1.0,3,2,2025-02-15,2025-02-10
+2025-04-09,TSLA,user_28,12979,dividend AI dividend,0.262,6,4,2025-04-09,2025-04-07
+2025-05-09,NVDA,user_26,14975,earnings earnings miss growth miss buy,0.078,7,1,2025-05-09,2025-05-05
+2025-04-29,NVDA,user_10,17698,crash AI dividend chip upgrade AI,-0.007,7,2,2025-04-29,2025-04-28
+2025-02-20,MSFT,user_47,11029,miss downgrade rebound dividend rebound chip dividend,-0.155,5,2,2025-02-20,2025-02-17
+2025-06-21,GOOGL,user_4,2772,rebound AI dividend crash,0.45,5,5,2025-06-21,2025-06-16
+2025-05-13,GOOGL,user_55,5405,dividend upgrade beat,0.379,1,1,2025-05-13,2025-05-12
+2025-04-10,TSLA,user_66,13351,sell crash holding earnings downgrade growth,-0.309,7,0,2025-04-10,2025-04-07
+2025-04-21,NVDA,user_67,2600,rebound sell holding earnings,0.163,4,2,2025-04-21,2025-04-21
+2025-03-17,MSFT,user_7,11191,buy growth sell beat,-0.389,7,1,2025-03-17,2025-03-17
+2025-02-14,MSFT,user_55,18107,holding downgrade sell,-0.552,5,0,2025-02-14,2025-02-10
+2025-03-06,MSFT,user_80,11334,growth beat buy,-0.251,5,1,2025-03-06,2025-03-03
+2025-05-17,AMZN,user_31,18100,chip holding downgrade growth revenue upgrade dividend,0.345,3,1,2025-05-17,2025-05-12
+2025-01-03,TSLA,user_74,1434,cloud AI AI,0.381,5,2,2025-01-03,2024-12-30
+2025-01-21,GOOGL,user_19,8302,cloud rebound sell,0.205,5,2,2025-01-21,2025-01-20
+2025-01-09,GOOGL,user_28,7288,growth beat sell holding dividend,0.29,4,2,2025-01-09,2025-01-06
+2025-01-08,AMZN,user_81,6076,growth rebound buy upgrade growth crash downgrade,0.206,3,0,2025-01-08,2025-01-06
+2025-06-03,AAPL,user_28,10532,earnings dividend miss dividend revenue,-0.257,3,3,2025-06-03,2025-06-02
+2025-05-07,AMZN,user_19,13851,cloud earnings crash beat buy earnings holding,0.173,5,1,2025-05-07,2025-05-05
+2025-03-27,TSLA,user_87,16170,crash buy upgrade,0.32,10,1,2025-03-27,2025-03-24
+2025-01-18,MSFT,user_20,15630,growth earnings AI,0.302,2,3,2025-01-18,2025-01-13
+2025-03-30,AMZN,user_13,8714,downgrade sell downgrade,0.476,5,1,2025-03-30,2025-03-24
+2025-03-27,MSFT,user_77,17392,downgrade upgrade revenue beat crash miss crash,0.283,3,0,2025-03-27,2025-03-24
+2025-02-01,TSLA,user_43,543,holding miss downgrade AI,0.141,4,1,2025-02-01,2025-01-27
+2025-03-20,SPG,user_11,16515,holding miss miss sell,0.428,6,2,2025-03-20,2025-03-17
+2025-03-13,TSLA,user_48,7049,sell miss buy holding sell growth,-0.011,3,2,2025-03-13,2025-03-10
+2025-04-21,NVDA,user_15,13883,crash miss downgrade dividend earnings beat,-0.353,4,1,2025-04-21,2025-04-21
+2025-04-25,MSFT,user_17,3020,AI chip chip rebound growth revenue dividend,-0.065,4,1,2025-04-25,2025-04-21
+2025-01-09,GOOGL,user_54,61,growth revenue downgrade,-0.298,5,4,2025-01-09,2025-01-06
+2025-03-09,AMZN,user_50,15601,revenue downgrade crash,-0.27,8,3,2025-03-09,2025-03-03
+2025-04-23,SPG,user_28,17195,holding revenue cloud AI growth downgrade,-0.058,5,0,2025-04-23,2025-04-21
+2025-04-01,TSLA,user_83,3235,crash miss beat earnings crash,-0.317,6,1,2025-04-01,2025-03-31
+2025-06-04,MSFT,user_4,16459,buy rebound cloud beat earnings miss,-0.123,3,3,2025-06-04,2025-06-02
+2025-04-29,SPG,user_22,1856,crash growth revenue buy,-0.757,4,3,2025-04-29,2025-04-28
+2025-01-30,AAPL,user_86,5714,revenue downgrade miss earnings sell AI cloud,0.085,5,1,2025-01-30,2025-01-27
+2025-01-13,NVDA,user_39,14176,buy growth sell AI sell rebound,0.0,6,2,2025-01-13,2025-01-13
+2025-04-26,AAPL,user_34,12944,sell upgrade rebound rebound buy upgrade holding,-0.327,7,3,2025-04-26,2025-04-21
+2025-01-05,TSLA,user_97,5204,cloud growth dividend earnings sell growth,0.264,5,1,2025-01-05,2024-12-30
+2025-04-16,AAPL,user_44,13817,miss upgrade chip miss downgrade,0.375,2,0,2025-04-16,2025-04-14
+2025-06-19,AAPL,user_42,15276,earnings dividend downgrade chip buy dividend miss,-0.643,6,2,2025-06-19,2025-06-16
+2025-04-14,NVDA,user_40,1575,AI holding cloud crash,-0.305,4,3,2025-04-14,2025-04-14
+2025-03-11,NVDA,user_97,810,cloud cloud miss holding,-0.308,2,2,2025-03-11,2025-03-10
+2025-04-26,NVDA,user_12,17028,cloud rebound chip beat holding sell,-0.376,4,3,2025-04-26,2025-04-21
+2025-03-24,SPG,user_2,13930,sell holding sell cloud earnings,0.332,2,0,2025-03-24,2025-03-24
+2025-04-09,NVDA,user_28,1105,revenue dividend rebound sell,-0.078,3,2,2025-04-09,2025-04-07
+2025-06-19,AAPL,user_74,10096,AI miss buy,-0.106,4,4,2025-06-19,2025-06-16
+2025-03-11,GOOGL,user_86,3133,chip cloud buy cloud revenue miss,-0.802,7,4,2025-03-11,2025-03-10
+2025-06-23,GOOGL,user_81,15728,earnings holding holding rebound miss rebound AI,0.254,5,2,2025-06-23,2025-06-23
+2025-06-12,NVDA,user_90,12158,sell crash beat sell earnings rebound chip,-0.496,5,2,2025-06-12,2025-06-09
+2025-02-05,SPG,user_67,9700,AI downgrade downgrade revenue revenue revenue,0.024,7,1,2025-02-05,2025-02-03
+2025-01-13,AMZN,user_71,6007,AI chip cloud earnings sell AI,0.111,9,1,2025-01-13,2025-01-13
+2025-01-19,MSFT,user_72,5305,chip miss revenue AI upgrade cloud,0.544,7,0,2025-01-19,2025-01-13
+2025-01-04,TSLA,user_84,9461,downgrade growth holding chip,-0.524,171,2,2025-01-04,2024-12-30
+2025-01-17,SPG,user_76,16394,beat holding sell dividend rebound,-1.0,6,0,2025-01-17,2025-01-13
+2025-05-03,AMZN,user_99,9741,cloud upgrade sell AI,0.074,9,1,2025-05-03,2025-04-28
+2025-01-13,TSLA,user_81,18264,growth holding rebound,0.72,2,3,2025-01-13,2025-01-13
+2025-02-27,AMZN,user_92,3445,beat rebound downgrade cloud cloud,0.496,3,0,2025-02-27,2025-02-24
+2025-06-02,AMZN,user_10,1253,growth revenue revenue downgrade buy,0.084,9,2,2025-06-02,2025-06-02
+2025-01-05,GOOGL,user_86,19244,earnings growth crash buy beat growth,-0.197,3,1,2025-01-05,2024-12-30
+2025-05-27,MSFT,user_57,19526,earnings AI earnings earnings downgrade miss,0.323,8,2,2025-05-27,2025-05-26
+2025-02-20,AMZN,user_97,3094,chip beat earnings chip,-0.389,5,0,2025-02-20,2025-02-17
+2025-01-22,NVDA,user_86,7322,holding growth upgrade downgrade miss cloud growth,0.191,4,2,2025-01-22,2025-01-20
+2025-05-06,TSLA,user_37,3564,AI miss beat cloud growth sell cloud,0.202,9,1,2025-05-06,2025-05-05
+2025-04-24,SPG,user_77,10040,beat miss miss chip beat,0.424,2,3,2025-04-24,2025-04-21
+2025-06-07,GOOGL,user_91,6242,growth dividend crash growth,1.0,5,3,2025-06-07,2025-06-02
+2025-05-13,TSLA,user_64,10817,buy AI beat dividend sell AI beat,0.157,10,2,2025-05-13,2025-05-12
+2025-05-25,NVDA,user_79,16578,sell beat AI revenue earnings buy holding,-0.204,5,2,2025-05-25,2025-05-19
+2025-02-20,NVDA,user_86,7557,downgrade upgrade chip,-0.01,4,2,2025-02-20,2025-02-17
+2025-02-01,AMZN,user_94,4907,earnings revenue growth beat dividend cloud earnings,-0.708,7,0,2025-02-01,2025-01-27
+2025-05-16,NVDA,user_40,12168,earnings revenue downgrade sell,-0.278,3,2,2025-05-16,2025-05-12
+2025-05-26,MSFT,user_98,17811,rebound AI earnings AI miss,-0.164,6,2,2025-05-26,2025-05-26
+2025-06-28,NVDA,user_60,3196,beat dividend AI buy,-0.21,3,1,2025-06-28,2025-06-23
+2025-03-16,AMZN,user_98,17227,revenue buy crash,0.061,3,3,2025-03-16,2025-03-10
+2025-03-08,TSLA,user_48,5806,rebound buy sell,-0.329,4,1,2025-03-08,2025-03-03
+2025-05-20,NVDA,user_99,4464,revenue AI buy dividend sell dividend,0.448,1,1,2025-05-20,2025-05-19
+2025-03-03,GOOGL,user_19,17544,crash beat downgrade upgrade growth sell,0.0,2,2,2025-03-03,2025-03-03
+2025-06-17,SPG,user_72,3987,miss crash buy chip buy,-0.004,4,1,2025-06-17,2025-06-16
+2025-06-04,GOOGL,user_33,4013,growth crash AI holding beat revenue,-0.131,5,1,2025-06-04,2025-06-02
+2025-03-19,GOOGL,user_44,5947,buy growth beat crash AI crash,0.062,8,0,2025-03-19,2025-03-17
+2025-05-16,TSLA,user_92,9024,growth upgrade buy,0.33,7,3,2025-05-16,2025-05-12
+2025-05-16,AAPL,user_37,14427,holding crash holding crash buy beat earnings,-0.347,7,2,2025-05-16,2025-05-12
+2025-01-19,SPG,user_89,17550,crash dividend chip cloud earnings upgrade earnings,-0.263,2,2,2025-01-19,2025-01-13
+2025-06-12,GOOGL,user_36,16106,growth holding downgrade holding upgrade,-0.121,6,4,2025-06-12,2025-06-09
+2025-04-01,GOOGL,user_81,1800,beat beat cloud miss,-0.538,8,1,2025-04-01,2025-03-31
+2025-05-29,AAPL,user_88,4077,miss chip revenue revenue,-0.328,6,3,2025-05-29,2025-05-26
+2025-02-27,TSLA,user_21,11578,buy chip crash revenue crash rebound,-0.19,4,2,2025-02-27,2025-02-24
+2025-06-11,SPG,user_2,5795,sell chip sell,0.35,4,2,2025-06-11,2025-06-09
+2025-03-12,GOOGL,user_31,9729,buy earnings cloud earnings cloud,0.105,4,1,2025-03-12,2025-03-10
+2025-01-02,AMZN,user_97,5988,rebound rebound dividend,0.077,1,3,2025-01-02,2024-12-30
+2025-06-12,TSLA,user_30,12200,dividend beat earnings downgrade,0.34,6,1,2025-06-12,2025-06-09
+2025-01-17,SPG,user_76,13456,crash sell miss AI beat,-0.055,421,2,2025-01-17,2025-01-13
+2025-02-27,GOOGL,user_44,19831,sell upgrade dividend chip buy crash,0.156,7,1,2025-02-27,2025-02-24
+2025-06-21,GOOGL,user_12,17793,growth rebound rebound crash,-0.041,7,3,2025-06-21,2025-06-16
+2025-06-21,AAPL,user_51,4903,cloud downgrade dividend rebound sell,0.106,6,3,2025-06-21,2025-06-16
+2025-04-14,SPG,user_49,18375,cloud earnings beat downgrade revenue holding,-0.233,6,1,2025-04-14,2025-04-14
+2025-04-24,AMZN,user_24,3198,crash beat holding,-0.976,4,2,2025-04-24,2025-04-21
+2025-03-22,TSLA,user_24,16293,revenue cloud growth growth,-0.054,3,0,2025-03-22,2025-03-17
+2025-02-22,NVDA,user_60,7983,downgrade rebound chip,0.569,6,2,2025-02-22,2025-02-17
+2025-03-01,MSFT,user_11,9486,beat AI cloud beat,0.37,3,2,2025-03-01,2025-02-24
+2025-05-02,AMZN,user_13,17719,revenue upgrade revenue miss miss upgrade,0.386,10,0,2025-05-02,2025-04-28
+2025-05-16,NVDA,user_91,6524,miss downgrade AI,0.494,5,3,2025-05-16,2025-05-12
+2025-05-23,AMZN,user_72,14729,sell sell AI beat chip earnings upgrade,0.035,6,4,2025-05-23,2025-05-19
+2025-05-23,SPG,user_74,11278,chip chip holding growth,0.079,6,0,2025-05-23,2025-05-19
+2025-01-17,NVDA,user_72,820,AI miss upgrade beat AI buy,-0.247,4,3,2025-01-17,2025-01-13
+2025-03-30,SPG,user_64,1893,chip miss holding growth AI,-0.126,6,1,2025-03-30,2025-03-24
+2025-01-11,NVDA,user_20,123,chip rebound revenue beat chip crash,0.246,5,2,2025-01-11,2025-01-06
+2025-04-09,AMZN,user_72,18094,dividend revenue crash buy,0.482,3,3,2025-04-09,2025-04-07
+2025-03-21,AAPL,user_73,16109,beat holding buy earnings crash holding,-0.056,2,2,2025-03-21,2025-03-17
+2025-06-09,AMZN,user_71,8050,sell upgrade rebound dividend,-0.18,3,0,2025-06-09,2025-06-09
+2025-03-05,SPG,user_78,13323,revenue cloud growth upgrade upgrade sell rebound,0.0,2,0,2025-03-05,2025-03-03
+2025-01-22,AMZN,user_28,16171,rebound earnings earnings miss dividend dividend dividend,0.24,8,1,2025-01-22,2025-01-20
+2025-01-26,NVDA,user_2,381,buy cloud cloud rebound sell beat,-0.578,7,4,2025-01-26,2025-01-20
+2025-05-18,MSFT,user_43,17855,earnings upgrade revenue,-0.918,4,1,2025-05-18,2025-05-12
+2025-04-22,NVDA,user_8,7562,chip growth miss crash holding,-0.22,3,0,2025-04-22,2025-04-21
+2025-01-19,GOOGL,user_13,4981,dividend earnings chip AI earnings earnings dividend,-0.488,3,2,2025-01-19,2025-01-13
+2025-01-16,AMZN,user_85,12792,dividend beat miss beat miss,-0.203,6,0,2025-01-16,2025-01-13
+2025-05-07,TSLA,user_92,13476,dividend miss cloud earnings downgrade rebound AI,-0.059,5,3,2025-05-07,2025-05-05
+2025-01-14,AMZN,user_35,5163,buy growth growth earnings AI cloud,-0.181,1,3,2025-01-14,2025-01-13
+2025-05-28,AAPL,user_23,8469,crash beat revenue dividend growth,0.581,8,2,2025-05-28,2025-05-26
+2025-05-08,SPG,user_46,2931,earnings crash cloud crash sell cloud,0.131,9,4,2025-05-08,2025-05-05
+2025-01-15,TSLA,user_15,13195,holding chip downgrade downgrade,0.12,4,0,2025-01-15,2025-01-13
+2025-01-16,NVDA,user_2,13606,buy chip cloud holding miss,0.249,7,4,2025-01-16,2025-01-13
+2025-06-27,AAPL,user_61,19299,downgrade cloud dividend miss beat chip earnings,-0.456,3,1,2025-06-27,2025-06-23
+2025-03-09,AMZN,user_76,2625,revenue AI earnings cloud growth,0.416,7,2,2025-03-09,2025-03-03
+2025-03-08,NVDA,user_64,12764,growth buy sell,-0.03,5,1,2025-03-08,2025-03-03
+2025-05-27,NVDA,user_52,6235,buy upgrade downgrade upgrade chip upgrade,0.268,6,1,2025-05-27,2025-05-26
+2025-06-20,GOOGL,user_36,8706,downgrade miss AI,-0.429,8,4,2025-06-20,2025-06-16
+2025-06-27,GOOGL,user_67,5791,buy miss earnings,-0.622,2,0,2025-06-27,2025-06-23
+2025-05-16,MSFT,user_69,16711,revenue chip upgrade chip miss chip,0.327,4,0,2025-05-16,2025-05-12
+2025-03-09,GOOGL,user_67,115,upgrade growth rebound dividend revenue beat,0.151,9,3,2025-03-09,2025-03-03
+2025-01-16,SPG,user_47,4312,earnings AI dividend,-0.361,4,1,2025-01-16,2025-01-13
+2025-05-20,TSLA,user_83,5754,holding AI upgrade buy,-0.348,4,2,2025-05-20,2025-05-19
+2025-04-11,NVDA,user_2,15405,miss buy upgrade AI holding beat holding,0.45,3,1,2025-04-11,2025-04-07
+2025-03-18,GOOGL,user_44,8644,holding cloud dividend holding,-0.476,4,2,2025-03-18,2025-03-17
+2025-06-13,MSFT,user_64,12225,AI revenue beat earnings buy beat dividend,0.657,4,3,2025-06-13,2025-06-09
+2025-01-21,AMZN,user_81,12746,earnings miss dividend earnings cloud growth growth,-0.36,6,3,2025-01-21,2025-01-20
+2025-03-30,TSLA,user_78,6305,holding buy crash rebound,0.255,7,1,2025-03-30,2025-03-24
+2025-01-03,GOOGL,user_28,7491,miss rebound miss cloud downgrade downgrade,-0.131,3,1,2025-01-03,2024-12-30
+2025-03-26,NVDA,user_91,15036,rebound chip earnings crash rebound earnings,0.241,6,1,2025-03-26,2025-03-24
+2025-01-11,AMZN,user_54,13400,cloud crash downgrade dividend cloud miss downgrade,-0.218,8,2,2025-01-11,2025-01-06
+2025-01-22,SPG,user_74,14490,growth downgrade cloud crash dividend,-0.065,7,2,2025-01-22,2025-01-20
+2025-01-22,NVDA,user_67,8010,rebound AI miss downgrade,0.016,3,4,2025-01-22,2025-01-20
+2025-04-27,AMZN,user_36,17871,AI earnings crash,-0.401,4,4,2025-04-27,2025-04-21
+2025-05-15,SPG,user_63,19812,earnings sell dividend upgrade rebound,0.296,6,4,2025-05-15,2025-05-12
+2025-04-16,SPG,user_25,13715,earnings sell buy upgrade growth miss chip,-0.205,8,2,2025-04-16,2025-04-14
+2025-06-23,TSLA,user_86,6679,revenue crash upgrade earnings,-0.091,3,2,2025-06-23,2025-06-23
+2025-03-09,NVDA,user_48,13878,dividend dividend downgrade crash revenue cloud rebound,-0.398,4,0,2025-03-09,2025-03-03
+2025-02-21,GOOGL,user_39,4591,dividend beat sell beat holding growth dividend,-1.0,3,2,2025-02-21,2025-02-17
+2025-06-06,GOOGL,user_47,7926,crash buy holding holding rebound beat revenue,-0.076,8,1,2025-06-06,2025-06-02
+2025-02-10,MSFT,user_94,13361,rebound AI rebound buy sell beat,0.965,1,2,2025-02-10,2025-02-10
+2025-06-23,AMZN,user_21,14638,chip dividend rebound growth miss growth,0.314,3,2,2025-06-23,2025-06-23
+2025-01-03,MSFT,user_30,16698,buy crash AI,-0.008,7,1,2025-01-03,2024-12-30
+2025-06-24,AAPL,user_92,12430,sell downgrade dividend upgrade rebound growth miss,-0.105,5,5,2025-06-24,2025-06-23
+2025-01-08,GOOGL,user_31,9927,buy sell miss,0.009,9,1,2025-01-08,2025-01-06
+2025-06-10,AMZN,user_26,17868,buy dividend beat beat,0.219,5,3,2025-06-10,2025-06-09
+2025-04-05,TSLA,user_22,5147,miss revenue rebound sell,-0.472,4,2,2025-04-05,2025-03-31
+2025-06-28,MSFT,user_21,18094,sell revenue revenue holding,0.446,5,3,2025-06-28,2025-06-23
+2025-01-14,TSLA,user_1,18788,growth miss downgrade crash chip crash miss,0.286,7,4,2025-01-14,2025-01-13
+2025-04-10,TSLA,user_37,6511,upgrade dividend holding revenue holding chip,0.287,3,1,2025-04-10,2025-04-07
+2025-06-24,TSLA,user_77,7094,revenue revenue growth,0.175,6,0,2025-06-24,2025-06-23
+2025-04-05,MSFT,user_85,5547,earnings dividend chip earnings cloud earnings miss,0.008,7,4,2025-04-05,2025-03-31
+2025-04-24,AAPL,user_46,13801,chip miss earnings downgrade cloud upgrade AI,0.269,304,3,2025-04-24,2025-04-21
+2025-05-06,SPG,user_9,9354,crash dividend downgrade,0.237,4,1,2025-05-06,2025-05-05
+2025-03-23,SPG,user_17,10476,buy chip sell rebound,-0.142,4,2,2025-03-23,2025-03-17
+2025-04-23,MSFT,user_47,11108,crash downgrade buy dividend earnings,-0.229,3,4,2025-04-23,2025-04-21
+2025-04-16,SPG,user_85,11310,miss growth earnings growth rebound,0.041,4,3,2025-04-16,2025-04-14
+2025-06-12,NVDA,user_95,18613,sell upgrade holding beat holding,0.62,2,1,2025-06-12,2025-06-09
+2025-01-09,SPG,user_59,684,crash downgrade dividend crash crash,-0.496,7,0,2025-01-09,2025-01-06
+2025-02-20,GOOGL,user_54,10107,downgrade rebound earnings beat beat crash,-0.587,6,4,2025-02-20,2025-02-17
+2025-06-21,MSFT,user_86,13395,chip chip revenue,0.066,7,1,2025-06-21,2025-06-16
+2025-06-10,SPG,user_12,10197,dividend downgrade earnings miss,0.02,5,1,2025-06-10,2025-06-09
+2025-03-24,MSFT,user_64,18652,sell growth revenue holding AI holding,0.069,4,3,2025-03-24,2025-03-24
+2025-04-22,AAPL,user_6,1439,sell upgrade crash miss buy,0.098,5,3,2025-04-22,2025-04-21
+2025-02-19,NVDA,user_53,13121,buy growth revenue crash beat revenue,-0.089,4,2,2025-02-19,2025-02-17
+2025-02-03,MSFT,user_16,11372,revenue upgrade beat earnings cloud miss,0.596,7,0,2025-02-03,2025-02-03
+2025-03-25,GOOGL,user_90,4326,revenue rebound downgrade upgrade cloud,-0.64,5,3,2025-03-25,2025-03-24
+2025-03-05,SPG,user_5,12356,chip AI growth,-0.331,6,1,2025-03-05,2025-03-03
+2025-04-16,GOOGL,user_73,1299,beat cloud AI sell earnings downgrade miss,-0.041,5,1,2025-04-16,2025-04-14
+2025-01-14,SPG,user_46,17679,chip upgrade growth revenue,-0.657,2,2,2025-01-14,2025-01-13
+2025-06-25,MSFT,user_14,8295,beat rebound holding buy earnings,-0.07,4,1,2025-06-25,2025-06-23
+2025-06-27,TSLA,user_44,11152,earnings sell dividend,0.665,4,1,2025-06-27,2025-06-23
